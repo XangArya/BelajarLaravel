@@ -9,7 +9,10 @@
 
 ## Belajar Laravel Mengikuti Tutorial Playlist WEB PROGRAMMING UNPAS
 
-Saat kode ini diupload saya sudah sampai hingga Video ke 5 yang berjudul <a href="https://www.youtube.com/watch?v=ptWgufbjURA&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=5" <p>''Belajar Laravel 8 | 5. Model, Collection & Controller''</p> <a>
+Saat kode ini diupload saya sudah sampai hingga Video ke 5 yang berjudul <a href="https://www.youtube.com/watch?v=ptWgufbjURA&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=5"><p>"Belajar Laravel 8 | 5. Model, Collection & Controller"</p></a>
+
+
+
 Hingga Saat ini saya sudah mempelajari beberapa materi dalam Laravel, Diantaranya : 
 <ul>
   <li>Instalasi dan Konfigurasi Laravel 8</li>
