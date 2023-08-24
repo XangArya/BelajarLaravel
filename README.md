@@ -7,19 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Belajar Laravel Mengikuti Tutorial Playlist WEB PROGRAMMING UNPAS
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Saat kode ini diupload saya sudah sampai hingga Video ke 5 yang berjudul <a href="https://www.youtube.com/watch?v=ptWgufbjURA&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=5" ''Belajar Laravel 8 | 5. Model, Collection & Controller''<a>
+Hingga Saat ini saya sudah mempelajari beberapa materi dalam Laravel, Diantaranya : 
+<ul>
+  <li>Instalasi dan Konfigurasi Laravel 8</li>
+  <li>Struktur Folder Laravel 8</li>
+  <li>Routes</li>
+  <li>Memahami Blade Templating Engine</li>
+  <li>Model Controller View (MVC)</li>
+  <li>Collection</li>
+</ul>
 
 ## Learning Laravel
 
